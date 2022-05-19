@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Ej1
 {
@@ -90,9 +91,26 @@ namespace Ej1
     }
     class Program
     {
+        public static List<object> astros;
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+        }
+        public void AñadePlaneta()
+        {
+             
+        }
+        public void AñandeAstro()
+        {
+
+        }
+        public void MuestraAstros()
+        {
+            foreach (object item in astros)
+            {
+                if (item is Astro) Console.WriteLine(((Astro)item).ToString());
+                if(item is Planeta) Console.WriteLine(((Planeta)item))
+            }
         }
     }
 }
