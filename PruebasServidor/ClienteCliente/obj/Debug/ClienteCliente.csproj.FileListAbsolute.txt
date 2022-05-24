@@ -1,0 +1,7 @@
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\bin\Debug\ClienteCliente.exe.config
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\bin\Debug\ClienteCliente.exe
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\bin\Debug\ClienteCliente.pdb
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\obj\Debug\ClienteCliente.csprojAssemblyReference.cache
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\obj\Debug\ClienteCliente.csproj.CoreCompileInputs.cache
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\obj\Debug\ClienteCliente.exe
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\ClienteCliente\obj\Debug\ClienteCliente.pdb

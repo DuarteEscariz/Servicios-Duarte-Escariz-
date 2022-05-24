@@ -1,0 +1,7 @@
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\bin\Debug\PruebasServidor.exe.config
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\bin\Debug\PruebasServidor.exe
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\bin\Debug\PruebasServidor.pdb
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\obj\Debug\PruebasServidor.csprojAssemblyReference.cache
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\obj\Debug\PruebasServidor.csproj.CoreCompileInputs.cache
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\obj\Debug\PruebasServidor.exe
+C:\Users\FX505\Desktop\Recuperaciones\Sistemas\Servicios-Duarte-Escariz-\PruebasServidor\PruebasServidor\obj\Debug\PruebasServidor.pdb
